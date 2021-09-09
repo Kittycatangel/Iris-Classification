@@ -6,7 +6,7 @@ We are in nature hiking and we want to explore diffrent flowers. We want to buil
 
 ![image](https://user-images.githubusercontent.com/53411455/132767506-ae7ab1c3-2d64-4b3b-b710-a32cf2324cc7.png)
 
-Data Exploration by  Pait Plot
+## Data Exploration by  Pait Plot
 
 ![image](https://user-images.githubusercontent.com/53411455/132767554-0e984e59-0ab6-4bba-8f29-ad67529db95d.png)
 
