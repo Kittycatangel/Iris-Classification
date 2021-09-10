@@ -14,6 +14,6 @@ We are in nature hiking and we want to explore diffrent flowers. We want to buil
 
 ## Outcome
 
-We build a K- nearset neighbor model that can accurately predict with 97% of the time the type of the flower.
+We built a K- nearset neighbor model that can accurately predict with 97% of the time the type of the flower.
 
 Great, now let's go exploring in the nature.
